@@ -52,10 +52,10 @@ form{
 }
 
 .login-content h2{
-	margin: 15px 0;
+	margin-bottom : 5px;
 	color: #333;
-	text-transform: uppercase;
-	font-size: 2.9rem;
+	/* text-transform: uppercase; */
+	font-size: 2rem;
 }
 
 .login-content .input-div{
@@ -195,9 +195,12 @@ a:hover{
 
 	.login-content h2{
         font-size: 2.4rem;
-        margin: 8px 0;
+        /* margin: 8px 0; */
+		margin-bottom: 36px;
 	}
-
+	.btn{
+		margin : 2rem 0;
+	}
 	.img img{
 		width: 400px;
 	}
